@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name ="BottomMenusView">
+        <!--指示器选中-->
+        <attr name="indicator_select" format="reference" />
+        <!--指示器未选中-->
+        <attr name="indicator_unselect" format="reference" />
+        <!--每页菜单行数-->
+        <attr name="page_menu_rows" format="integer" />
+        <!--每页菜单列数-->
+        <attr name="page_menu_columns" format="integer" />
+        <!--菜单字体大小-->
+        <attr name="menu_text_size" format="dimension" />
+        <!--菜单字体颜色-->
+        <attr name="menu_text_color" format="color" />
+        <!--菜单icon宽度-->
+        <attr name="menu_icon_width" format="dimension" />
+        <!--菜单icon高度-->
+        <attr name="menu_icon_height" format="dimension" />
+    </declare-styleable>
+
+</resources>
