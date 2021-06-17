@@ -9,7 +9,7 @@
     <com.zheng.bottommenus.view.BottomMenusView
         android:id="@+id/view_bottom_menus"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="260dp"
         app:page_menu_rows="2"
         app:page_menu_columns="4"
         app:menu_icon_width="66dp"

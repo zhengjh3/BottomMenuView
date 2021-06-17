@@ -26,12 +26,6 @@ public class MainActivity extends AppCompatActivity {
         bottomMenusView = findViewById(R.id.view_bottom_menus);
         List<Menu> listMenu = new ArrayList<>();
         listMenu.add(new Menu("路飞", R.drawable.lufei));
-        listMenu.add(new Menu("罗宾布鲁克罗宾布鲁克罗宾布鲁克", R.drawable.luobin));
-        listMenu.add(new Menu("索隆", R.drawable.suolong));
-        listMenu.add(new Menu("布鲁克", R.drawable.buluke));
-        listMenu.add(new Menu("雷利", R.drawable.leili));
-        listMenu.add(new Menu("萨波", R.drawable.sabo));
-        listMenu.add(new Menu("路飞", R.drawable.lufei));
         listMenu.add(new Menu("罗宾", R.drawable.luobin));
         listMenu.add(new Menu("索隆", R.drawable.suolong));
         listMenu.add(new Menu("布鲁克", R.drawable.buluke));
